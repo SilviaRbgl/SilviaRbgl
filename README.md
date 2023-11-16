@@ -1,7 +1,7 @@
 
 # Hi, I'm Silvia Rbgl
 - ✨ I'm a Full Stack Developer with a background in video editing
-- 💻 Looking for a frontend opportunity in Berlin
+- 💻 Frontend Developer based in Berlin
 - 💬 Spanish, English and German
 - 📫 Reach me on **silviarbgl@gmail.com** or add me on **[LinkedIn](https://www.linkedin.com/in/silviarbgl/)**.
 
